@@ -1,0 +1,7 @@
+{
+    "name": "ethaniccc/idotbook",
+    "description": "The IdotBook websitee!",
+    "require": {
+        "mofodojodino/profanity-filter": "^1.3"
+    }
+}

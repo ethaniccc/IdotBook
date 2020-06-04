@@ -1,0 +1,16 @@
+Title: 1st Post
+Author: ethaniccc
+Content: This is 100% the first post on this website.
+
+Replies:
+------
+Replier: mmmFiveFourFive
+Reply: This is 100% the first reply on this website.
+------
+Replier: ethaniccc
+Reply: This is 100% the first reply to a reply on this website!
+------
+Replier: mmmFiveFourFive
+Reply: lol
+This is 100% the first lol on this website.
+------
