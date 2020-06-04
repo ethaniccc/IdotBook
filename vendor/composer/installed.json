@@ -1,0 +1,44 @@
+[
+    {
+        "name": "mofodojodino/profanity-filter",
+        "version": "1.3.0",
+        "version_normalized": "1.3.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/mofodojodino/ProfanityFilter.git",
+            "reference": "529d24adcdb5b9507a4622db6aba6e54c5bb82a9"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/mofodojodino/ProfanityFilter/zipball/529d24adcdb5b9507a4622db6aba6e54c5bb82a9",
+            "reference": "529d24adcdb5b9507a4622db6aba6e54c5bb82a9",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.3"
+        },
+        "require-dev": {
+            "phpspec/phpspec": "~2.0",
+            "phpunit/phpunit": "~4.8"
+        },
+        "time": "2016-05-11T00:19:07+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "": "src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Dean Tedesco",
+                "email": "dino@tedesco.net.au"
+            }
+        ],
+        "description": "Filters out profanities from strings."
+    }
+]
